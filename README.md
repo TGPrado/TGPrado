@@ -21,10 +21,11 @@
 
 <p style="font-family:Alata, sans-serif; font-size:16px;">
 - 18 anos<br>
-- Graduando em Eng. Elétrica - Unesp/FEIS<br>
-- Amante de tecnologia, programação e hacking<br>
-- BugHunter na HackerOne
+- Graduating in Electrical Engineering - Unesp/FEIS<br>
+- Passionate about technology, programming and hacking<br>
+- BugHunter at HackerOne
 </p>
+"I want to put a mark on the universe." - Steve Jobs
 
 ---
 
