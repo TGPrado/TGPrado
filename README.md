@@ -29,7 +29,7 @@
 
 ---
 
-<h4 style="font-family:Alata, sans-serif; font-size:16px;">Tecnologias mais utilizadas</h5>
+<h4 style="font-family:Alata, sans-serif; font-size:16px;">Most used technologies</h5>
 
 <br />
 <div align="center">
@@ -45,7 +45,7 @@
 
 ---
 
-<h4 style="font-family:Alata, sans-serif; font-size:16px;">Estatísticas do meu perfil</h5>
+<h4 style="font-family:Alata, sans-serif; font-size:16px;">My profile statistics</h5>
 <br />
 <div style="display:flex; width:100%; justify-content:center;">
   <img src="https://github-readme-stats.vercel.app/api?username=T635&show_icons=true" width="400px" height="200px" />
