@@ -20,7 +20,7 @@
 </div>
 
 <p style="font-family:Alata, sans-serif; font-size:16px;">
-- 18 anos<br>
+- 18 years<br>
 - Graduating in Electrical Engineering - Unesp/FEIS<br>
 - Passionate about technology, programming and hacking<br>
 - BugHunter at HackerOne
