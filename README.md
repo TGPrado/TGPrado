@@ -25,7 +25,7 @@
 - Passionate about technology, programming and hacking<br>
 - BugHunter at HackerOne
 </p>
-"I want to put a mark on the universe." - Steve Jobs
+<p><i>"I want to put a ding in the universe." </i> - Steve Jobs</p>
 
 ---
 
