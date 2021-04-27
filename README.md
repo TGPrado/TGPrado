@@ -48,6 +48,6 @@
 <h4 style="font-family:Alata, sans-serif; font-size:16px;">My profile statistics</h5>
 <br />
 <div style="display:flex; width:100%; justify-content:center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=T635&show_icons=true" width="400px" height="200px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T635&layout=compact" width="400px" height="200px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=T635&show_icons=true&theme=radical" width="400px" height="200px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T635&hide=css&theme=radical" width="400px" height="200px" />
 </div>
