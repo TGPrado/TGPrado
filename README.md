@@ -40,7 +40,8 @@
   <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">&nbsp;&nbsp;&nbsp;
   <img height="35" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png">&nbsp;&nbsp;&nbsp;
   <img height="35" src="https://raw.githubusercontent.com/github/explore/26674e638508ac4a4e113ee32d6755ebfa000569/topics/neovim/neovim.png">&nbsp;&nbsp;&nbsp;
-
+  <img height="37" src="https://images.vexels.com/media/users/3/166179/isolated/preview/b83d6b47a9502dfaf535087627a8bf96-iacute-cone-da-linguagem-de-programa-ccedil-atilde-o-c-by-vexels.png">&nbsp;&nbsp;&nbsp;
+  
 </div>
 
 ---
