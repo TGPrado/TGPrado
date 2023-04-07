@@ -13,9 +13,6 @@
   <a target="_blank" href="mailto:prado_thiago17@hotmail.com">
     <img alt="Email" width="28px" src="https://raw.githubusercontent.com/T635/T635/f46fee11d2ea7b8c57f8b3c5892d098b110152b2/outlook.svg" />
   </a>&nbsp;&nbsp;&nbsp;
-  <a target="_blank" href="https://fb.com/Thiago.1709/">
-    <img alt="Facebook" width="28px" src="https://raw.githubusercontent.com/T635/T635/f46fee11d2ea7b8c57f8b3c5892d098b110152b2/facebook.svg" />
-  </a>&nbsp;&nbsp;&nbsp;
  </h1>
 </div>
 
@@ -49,6 +46,6 @@
 <h4 style="font-family:Alata, sans-serif; font-size:16px;">My profile statistics</h5>
 <br />
 <div style="display:flex; width:100%; justify-content:center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=T635&show_icons=true&theme=radical" width="400px" height="250px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T635&hide=css&theme=radical" width="400px" height="250px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TGPrado&show_icons=true&theme=radical" width="400px" height="250px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TGPrado&hide=css&theme=radical" width="400px" height="250px" />
 </div>
